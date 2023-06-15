@@ -21,6 +21,7 @@ def get_product(request):
         if(request.GET.get('category')):
             category = request.GET.get('category')
             product_objs = Product.objects.filter(category = category)
+            
 ###### Seacrh by title
 
         if(request.GET.get('title')):
