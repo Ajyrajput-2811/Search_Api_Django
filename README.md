@@ -55,3 +55,17 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 And the project is ready for use on your computer!.
+
+## ScreenShot of the project
+# api Page:
+<img width="1440" alt="Screenshot 2023-06-14 at 8 01 29 PM" src="https://github.com/Ajyrajput-2811/Search_Api_Django/assets/119350384/e9445f6e-e63d-4b0f-9759-67f1e3472f06">
+
+# Postman:
+<img width="1440" alt="Screenshot 2023-06-14 at 8 01 52 PM" src="https://github.com/Ajyrajput-2811/Search_Api_Django/assets/119350384/50c73580-6032-4232-85ad-debc018a4651">
+<img width="1440" alt="Screenshot 2023-06-14 at 8 02 14 PM" src="https://github.com/Ajyrajput-2811/Search_Api_Django/assets/119350384/df548f60-92c2-4cad-bd36-f610e0ac9a3d">
+
+# MongoDB:
+<img width="1440" alt="Screenshot 2023-06-17 at 2 20 53 PM" src="https://github.com/Ajyrajput-2811/Search_Api_Django/assets/119350384/e40d6a15-10d2-460b-86bb-54d5fd070483">
+
+
+
