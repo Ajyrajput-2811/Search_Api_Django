@@ -23,14 +23,30 @@ pip install -r requirements.txt
 ```
 Note: Above lines are required for first time installation.
 
-5)- Execute below commands
+### Use Mongodb as a backend database for django project
+
+5.1)- Install djongo:
+```
+pip install djongo
+```
+5.2)- Into settings.py file of your project, add:
+```
+DATABASES = {
+     'default': {
+         'ENGINE': 'djongo',
+         'NAME': 'your-db-name',
+     }
+ }
+ ```
+
+6)- Execute below commands
 ```
 python manage.py makemigrations
 python manage.py migrate
 ```
 Note: Above commands should be executed if there is any db level changes
 
-6)- Create superuser for admin access and follow instruction, if not created one
+7)- Create superuser for admin access and follow instruction, if not created one
 ```
 python manage.py createsuperuser
 ```
