@@ -67,5 +67,7 @@ And the project is ready for use on your computer!.
 # MongoDB:
 <img width="1440" alt="Screenshot 2023-06-17 at 2 20 53 PM" src="https://github.com/Ajyrajput-2811/Search_Api_Django/assets/119350384/e40d6a15-10d2-460b-86bb-54d5fd070483">
 
+# Django Admin:
+<img width="1440" alt="Screenshot 2023-06-17 at 2 30 59 PM" src="https://github.com/Ajyrajput-2811/Search_Api_Django/assets/119350384/ac16c93a-6622-43e2-a99e-56961bd2ae59">
 
 
